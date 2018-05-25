@@ -1,4 +1,4 @@
-Sample Spring Boot REST Service with JSON Schema Validation
+Spring Boot REST Service with JSON Schema Validation
 ===========================================================
 
 * Java Platform (JDK) 1.8

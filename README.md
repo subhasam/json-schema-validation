@@ -1,9 +1,12 @@
-Sample Spring Boot REST Service
-================================
+Sample Spring Boot REST Service with JSON Schema Validation
+===========================================================
 
 * Java Platform (JDK) 1.8
 * Apache Maven 3.x
 * Spring 4.x
+* SpringBoot 1.x
+* GitHub-fge json-schema-validator 2.2.8
+* jackson-json-reference-core 0.3.0
 
 Quick start
 -----------
